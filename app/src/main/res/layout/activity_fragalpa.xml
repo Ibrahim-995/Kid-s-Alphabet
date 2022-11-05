@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="5"
+    tools:context=".Fragalpa"
+    >
+
+
+
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent">
+
+
+        <ListView
+            android:id="@+id/listviewid"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:listSelector="#22edff">
+
+        </ListView>
+
+    </LinearLayout>
+    
+    
+    <LinearLayout
+        android:layout_weight="4"
+        android:layout_width="0dp"
+        android:layout_height="match_parent">
+
+        <fragment
+            android:id="@+id/fragid"
+            android:name="com.example.asus.kidsalphabet.ShowFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <Button
+                android:layout_width="140dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="230dp"
+                android:text="Back"
+                android:textSize="20dp"
+                android:onClick="switch11"
+                android:background="#FF018786"
+                android:layout_marginTop="560dp">
+
+            </Button>
+
+
+
+        </fragment>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

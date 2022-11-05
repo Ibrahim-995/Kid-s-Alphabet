@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Kid\'s Alphabet</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="azscrl">
+A    Actor 	Ash 	Argentine	Afirm	Alfa
+B	Baker	Back	Brussels	Baker	Bravo
+C	Canteen	Chain	Canada	Cast	Charlie
+D	Diver	Dog	Damascus	Dog	Delta
+E	Eagle	Egg	Ecuador	Easy	Echo
+F	Fisher	Fox	France	Fox	Foxtrot
+G	Gangway	Gig	Greece	George	Golf
+H	Halliard	Horse	Hanover	Hypo	Hotel
+I	Insect	Ice	Italy	Int	India
+J	Jockey	Jake	Japan	Jig	Juliett
+K	Knapsack	King	Khartoum	King	Kilo
+L	Lugger	Lash	Lima	Love	Lima
+M	Musket	Mule	Madrid	Mike	Mike
+N	Neptune	Net	Nancy	Negat	November
+O	Oyster	Oak	Ostend	Option	Oscar
+P	Pistol	Page	Paris	Prep	Papa
+Q	Quadrant	Quail	Quebec	Queen	Quebec
+R	Reefer	Raft	Rome	Roger	Romeo
+S	Shipmate	Scout	Sardinia	Sail	Sierra
+T	Topsail	Tide	Tokio	Tare	Tango
+U	Unload	Use	Uruguay	Unit	Uniform
+V	Vessel	Vast	Victoria	Victor	Victor
+W	Windage	Winch	Washington	William	Whiskey
+X	Xray	Xray	Xaintrie	Xray	X-ray
+Y	Yeoman	Yacht	Yokohama	Yoke	Yankee
+Z	Zebra	Zoo	Zanzibar	Zed	Zulu
+
+
+
+    </string>
+</resources>

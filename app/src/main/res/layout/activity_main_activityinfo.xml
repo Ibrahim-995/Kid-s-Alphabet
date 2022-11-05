@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivityinfo"
+    android:background="@drawable/back3">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="343dp"
+        android:layout_height="251dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="58dp"
+        android:layout_marginEnd="44dp"
+        android:text="'Kid's alphabet' is an application for kid's. It's helpful to read alphabets with examples alternate books.There are 26 letters in the English alphabet which range from 'a' to 'z.         Thank you.  "
+        android:textColor="#FF018786"
+        android:textSize="26dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="3dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="102dp"
+        android:gravity="center"
+        android:text="Developed by Ibrahim Khalil Ullah                  ID: 173-15-10474          Daffodil International university."
+        android:textColor="#FF018786"
+        android:textStyle="bold"
+        android:textSize="25dp" />
+
+    <Button
+        android:layout_width="140dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="250dp"
+        android:text="Back"
+        android:textSize="20dp"
+        android:onClick="switch5"
+        android:background="#FF018786"
+        android:layout_marginTop="560dp">
+
+    </Button>
+</RelativeLayout>

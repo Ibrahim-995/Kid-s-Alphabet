@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/animalletters"
+    tools:context=".AnimalAlpha">
+
+    <Button
+        android:layout_width="140dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="250dp"
+        android:text="Back"
+        android:textSize="20dp"
+        android:onClick="switch10"
+        android:background="#FF018786"
+        android:layout_marginTop="560dp">
+
+    </Button>
+
+
+</LinearLayout>

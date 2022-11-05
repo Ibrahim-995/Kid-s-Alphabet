@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "919848264246",
+    "firebase_url": "https://kid-s-alphabet-c873c.firebaseio.com",
+    "project_id": "kid-s-alphabet-c873c",
+    "storage_bucket": "kid-s-alphabet-c873c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919848264246:android:8452aeda6d2c8d04",
+        "android_client_info": {
+          "package_name": "com.example.asus.kidsalphabet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919848264246-l3os9j7rod9ocohhi7bsp3kuebui4irh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ULS8aqEvroDAlPz-lc7eX6Xn-taEgoQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
